@@ -1,7 +1,7 @@
 Wildfire_Decision_Simaulation_Interfac_Main
 
-To run this project
+To run this project (type in the terminal)
 
-install npm
+1- install npm
 
-npm run dev
+2- npm run dev
